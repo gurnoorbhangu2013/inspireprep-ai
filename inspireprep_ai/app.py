@@ -128,3 +128,8 @@ elif choice == "Download Lesson PDF":
         except Exception as e:
             st.error(f"Error: {e}")
 
+def run():
+    # All your existing Streamlit code goes here
+    ...
+            
+
