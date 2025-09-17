@@ -1,0 +1,3 @@
+MIT License
+
+Permission is granted to use, modify, and distribute this project for educational or commercial purposes.

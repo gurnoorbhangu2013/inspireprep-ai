@@ -1,0 +1,14 @@
+[
+  {
+    "subject": "English",
+    "question": "What is the synonym of 'brave'?",
+    "options": ["cowardly", "fearless", "timid", "shy"],
+    "answer": "fearless"
+  },
+  {
+    "subject": "Maths",
+    "question": "Simplify 4/8",
+    "options": ["1/2", "2/4", "4/4", "2/8"],
+    "answer": "1/2"
+  }
+]
